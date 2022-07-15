@@ -2,7 +2,7 @@
 
 Web PANEL ScreenShoot
 
-Automatic Discord Service Sender
+Automatic Discord Service Sender. It has integration for all SMM Panels.
 
 Some automated services
 - Sending Server Members
