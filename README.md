@@ -17,6 +17,9 @@ Some automated services
 
 10 Diffrent Services
 
+Telegram: https://t.me/discserp
+
+
 https://discserp.com
 
 
